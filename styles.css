@@ -8,3 +8,14 @@ div {
 .btn-inscription {
     margin-top: 20px;
 }
+
+@media screen and (max-width: 1100px) {
+    body {
+        margin: 60px 2px;
+        font-size: 11px;
+        
+    }
+    div {
+        margin: 50px 2px;
+    }
+}
