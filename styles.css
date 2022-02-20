@@ -1,0 +1,10 @@
+body {
+    margin: 60px;
+    background-color: rgb(233, 249, 255);
+}
+div {
+    margin: 50px 100px;
+}
+.btn-inscription {
+    margin-top: 20px;
+}
